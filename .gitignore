@@ -2,5 +2,5 @@ tos.html
 test.html
 color.css
 ./js/index.js
-./node_modules
-./tos
+node_modules
+tos
