@@ -4,7 +4,7 @@
 	min-height: 20px;
 	box-sizing: border-box;
 	padding: 30px 30px 30px 30px;
-	background: #232323;
+	background: rgba(0,0,0,0.5);
 	overflow: hidden;
 	position: fixed;
     bottom: 30px;
@@ -39,7 +39,7 @@
 	font-size: 14px;
 	font-weight: bold;
 	margin-top: 14px;
-	background: #000000;
+	background: rgba(0,0,0,0.2);
 	box-sizing: border-box; 
 	padding: 15px 24px;
 	text-align: center;

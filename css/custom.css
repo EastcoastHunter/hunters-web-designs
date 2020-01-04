@@ -1,0 +1,82 @@
+/* .pc{
+    text-align: left;
+    color: rgb(223, 223, 223);
+     line-height: 5.4rem; 
+    padding: 15px auto;
+    margin: 15px auto;
+}
+.pc2{
+    text-align: center;
+    line-height:1.5rem
+}
+p{
+    word-wrap: break-word;
+    font-size: 1.5!important;
+}
+.background{
+    background: rgba(122, 122, 122, 0.8);
+}
+.body{
+    color: #000000!important;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 900;
+    padding: 20px 0 20px 0;
+    word-wrap: normal;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.body a{
+    text-decoration: none;
+    color: navy;
+}
+
+.body{
+    padding: 15px 0 0 15px;
+}
+
+.about-text {
+    padding-top: 70px;
+  }
+  
+  .about-text h3 {
+    margin-bottom: 35px;
+  }
+  
+  .about-text p {
+    margin-bottom: 40px;
+  }*/
+
+p:hover{
+    /* background: rgba(128, 128, 128, 0.712); */
+    color: rgb(0,0,0);
+    /* font-weight: 800; */
+}
+/* a:hover{
+    text-decoration: none;
+    color: #e1e1e3;
+} */
+p{
+    font-weight: 800!important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card:hover{
+    background: rgba(128,128,128,0.712);
+    border: 1px solid rgba(128,128,128,0.712);
+    border-radius: 10px;
+    color: rgb(0,0,0);
+    word-wrap: regular;
+    width: auto;
+    padding: 15px;
+    cursor: pointer;
+}
+.card:hover, p:hover{
+    width:auto;
+}
+.card:hover a{
+    text-decoration: none;
+    color: #e1e1e3;
+}
+.card{
+    border:none;
+}
